@@ -4,10 +4,10 @@ This code is a part of presentataion Refactor to Reactive With Spring 5 and Proj
 
 ## Project
 
-* [blocking-tomcat-demo]() - blocking web application that is based on Tomcat server
-* [non-blocking-tomcat-demo]() - nonblocking web application that is based on Tomcat server + Servlet Api 3.1
-* [non-blocking-netty-demo]() - nonblocking web application that is based on Netty server
-* [gatling-tests]() - Gatling based test suite 
+* [blocking-tomcat-demo](./blocking-tomcat-demo) - blocking web application that is based on Tomcat server
+* [non-blocking-tomcat-demo](./non-blocking-demo-tomcat) - nonblocking web application that is based on Tomcat server + Servlet Api 3.1
+* [non-blocking-netty-demo](./non-blocking-demo-netty) - nonblocking web application that is based on Netty server
+* [gatling-tests](./gatling-sbt-plugin-demo-master) - Gatling based test suite 
 
 ## Tool-sets
 
