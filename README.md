@@ -36,7 +36,7 @@ java -Xmx2g
 
 #### Results
 
-| Throughtput | Avarage Latency (milliseconds) |
+| Throughput | Average Latency (milliseconds) |
 | ----------- | ------------------------------ |
 | 100 | 1200 |
 | 1000 | 4600 |
@@ -58,7 +58,7 @@ java -Xmx2g
 
 #### Results
 
-| Throughtput | Avarage Latency (milliseconds) |
+| Throughput | Average Latency (milliseconds) |
 | ----------- | ------------------------------ |
 | 100 | 1271 |
 | 1000 | 1429 |
@@ -77,7 +77,7 @@ java -Xmx2g
 
 #### Results
 
-| Throughtput | Avarage Latency (milliseconds) |
+| Throughput | Average Latency (milliseconds) |
 | ----------- | ------------------------------ |
 | 100 | 1203 |
 | 1000 | 1407 |
@@ -96,7 +96,7 @@ java -Xmx2g
 
 #### Results
 
-| Throughtput | Avarage Latency (milliseconds) |
+| Throughput | Average Latency (milliseconds) |
 | ----------- | ------------------------------ |
 | 1000 | 1370 |
 | 10000 | 2699 |
